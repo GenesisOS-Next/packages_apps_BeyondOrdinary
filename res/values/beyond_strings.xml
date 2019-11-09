@@ -30,6 +30,7 @@
     <string name="power_button">Power button</string>
     <string name="gaming">Gaming</string>
     <string name="icons">Icons</string>
+    <string name="heads_up">Heads up</string>
 
     <!-- BeyondOrdinary -->
     <string name="beyond_dashboard_title">Beyond Ordinary</string>
