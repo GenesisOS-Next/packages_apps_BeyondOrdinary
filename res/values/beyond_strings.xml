@@ -28,6 +28,7 @@
     <string name="reset">Reset</string>
     <string name="spoofing">Spoofing</string>
     <string name="power_button">Power button</string>
+    <string name="gaming">Gaming</string>
 
     <!-- BeyondOrdinary -->
     <string name="beyond_dashboard_title">Beyond Ordinary</string>
