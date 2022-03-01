@@ -31,6 +31,7 @@
     <string name="gaming">Gaming</string>
     <string name="icons">Icons</string>
     <string name="heads_up">Heads up</string>
+    <string name="secure_locksreen">Secure lock screen</string>
 
     <!-- BeyondOrdinary -->
     <string name="beyond_dashboard_title">Beyond Ordinary</string>
