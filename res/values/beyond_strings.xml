@@ -27,6 +27,7 @@
     <string name="attention">Attention</string>
     <string name="reset">Reset</string>
     <string name="spoofing">Spoofing</string>
+    <string name="power_button">Power button</string>
 
     <!-- BeyondOrdinary -->
     <string name="beyond_dashboard_title">Beyond Ordinary</string>
